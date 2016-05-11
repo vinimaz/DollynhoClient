@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="DollynhoClient">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/DollynhoClient.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
